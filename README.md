@@ -6,6 +6,6 @@
 
 
 ### Demo
-https://shivaanshkaushal.github.io/shivaanshkaushal.github.io
+https://shivaanshkaushal.github.io/index.html
 
 
