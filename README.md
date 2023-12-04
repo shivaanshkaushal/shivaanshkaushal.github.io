@@ -6,7 +6,6 @@
 
 
 ### Demo
-https://alleny244.github.io/Portfolio-Website/
+https://shivaanshkaushal.github.io/
 
-### Preview
-![Screenshot from 2023-07-12 18-50-44](https://github.com/Alleny244/Portfolio-Website/assets/56961826/da907170-70dd-4b00-ae4b-93b6004fa68b)
+
